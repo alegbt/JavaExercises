@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExOnline/CodeBat_Array2/CodeBat_Array2.iml" filepath="$PROJECT_DIR$/ExOnline/CodeBat_Array2/CodeBat_Array2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExOnline/CodingBat_String2/CodingBat_String2.iml" filepath="$PROJECT_DIR$/ExOnline/CodingBat_String2/CodingBat_String2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex10_for3/Ex10_for3.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex10_for3/Ex10_for3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex11_for_4/Ex11_for_4.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex11_for_4/Ex11_for_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex12_while1/Ex12_while1.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex12_while1/Ex12_while1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex13_while2/Ex13_while2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex13_while2/Ex13_while2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex14_while3/Ex14_while3.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex14_while3/Ex14_while3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex15_while4/Ex15_while4.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex15_while4/Ex15_while4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex16_Switch1/Ex16_Switch1.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex16_Switch1/Ex16_Switch1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex17_Switch2/Ex17_Switch2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex17_Switch2/Ex17_Switch2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex18_Exceptions/Ex18_Exceptions.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex18_Exceptions/Ex18_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex19_Exceptions2_2/Ex19_Exceptions2_2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex19_Exceptions2_2/Ex19_Exceptions2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex19_javadoc1/Ex19_javadoc1.iml" filepath="$PROJECT_DIR$/Ex19_javadoc1/Ex19_javadoc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex1ClassesandObj/Ex1ClassesandObj.iml" filepath="$PROJECT_DIR$/Ex1ClassesandObj/Ex1ClassesandObj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex20_Annnotations1/Ex20_Annnotations1.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex20_Annnotations1/Ex20_Annnotations1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex21_Annotations2/Ex21_Annotations2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex21_Annotations2/Ex21_Annotations2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex22_Streams02/Ex22_Streams02.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex22_Streams02/Ex22_Streams02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex2ClassesAndObjects2/Ex2ClassesAndObjects2.iml" filepath="$PROJECT_DIR$/Ex2ClassesAndObjects2/Ex2ClassesAndObjects2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex2_arrays/Ex2_arrays.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex2_arrays/Ex2_arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex3_Variables_Methods_Constructor/Ex3_Variables_Methods_Constructor.iml" filepath="$PROJECT_DIR$/Ex3_Variables_Methods_Constructor/Ex3_Variables_Methods_Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex3_list1/Ex3_list1.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex3_list1/Ex3_list1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex4_2nd_Variables_Methods_Constructor2/Ex4_2nd_Variables_Methods_Constructor2.iml" filepath="$PROJECT_DIR$/Ex4_2nd_Variables_Methods_Constructor2/Ex4_2nd_Variables_Methods_Constructor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex4_list2/Ex4_list2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex4_list2/Ex4_list2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex5_Interfaces/Ex5_Interfaces.iml" filepath="$PROJECT_DIR$/Ex5_Interfaces/Ex5_Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex5_generic_wildcards/Ex5_generic_wildcards.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex5_generic_wildcards/Ex5_generic_wildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex6_Overload/Ex6_Overload.iml" filepath="$PROJECT_DIR$/Ex6_Overload/Ex6_Overload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex6_generic_wildcards2/Ex6_generic_wildcards2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex6_generic_wildcards2/Ex6_generic_wildcards2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex7Interfaces_abstraction_override/Ex7Interfaces_abstraction_override.iml" filepath="$PROJECT_DIR$/Ex7Interfaces_abstraction_override/Ex7Interfaces_abstraction_override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex7_Enumerations/Ex7_Enumerations.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex7_Enumerations/Ex7_Enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex8_default_methods_override/Ex8_default_methods_override.iml" filepath="$PROJECT_DIR$/Ex8_default_methods_override/Ex8_default_methods_override.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex8_for1/Ex8_for1.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex8_for1/Ex8_for1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercisesAdvanced/Ex9_for2/Ex9_for2.iml" filepath="$PROJECT_DIR$/exercisesAdvanced/Ex9_for2/Ex9_for2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex9_polimorphism_1/Ex9_polimorphism_1.iml" filepath="$PROJECT_DIR$/Ex9_polimorphism_1/Ex9_polimorphism_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_10_polimorphism2/Ex_10_polimorphism2.iml" filepath="$PROJECT_DIR$/Ex_10_polimorphism2/Ex_10_polimorphism2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_11_Encapsulation1/Ex_11_Encapsulation1.iml" filepath="$PROJECT_DIR$/Ex_11_Encapsulation1/Ex_11_Encapsulation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_14_if_statements2/Ex_14_if_statements2.iml" filepath="$PROJECT_DIR$/Ex_14_if_statements2/Ex_14_if_statements2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_15_if_statements3/Ex_15_if_statements3.iml" filepath="$PROJECT_DIR$/Ex_15_if_statements3/Ex_15_if_statements3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_16_if_statements_4/Ex_16_if_statements_4.iml" filepath="$PROJECT_DIR$/Ex_16_if_statements_4/Ex_16_if_statements_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_17_Input2/Ex_17_Input2.iml" filepath="$PROJECT_DIR$/Ex_17_Input2/Ex_17_Input2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_17_input_output1/Ex_17_input_output1.iml" filepath="$PROJECT_DIR$/Ex_17_input_output1/Ex_17_input_output1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_18_input_output_5/Ex_18_input_output_5.iml" filepath="$PROJECT_DIR$/Ex_18_input_output_5/Ex_18_input_output_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_22_Date/Ex_22_Date.iml" filepath="$PROJECT_DIR$/Ex_22_Date/Ex_22_Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_23_static/Ex_23_static.iml" filepath="$PROJECT_DIR$/Ex_23_static/Ex_23_static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex24_enumerations/ex24_enumerations.iml" filepath="$PROJECT_DIR$/ex24_enumerations/ex24_enumerations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_11_encapsulationnn1/ex_11_encapsulationnn1.iml" filepath="$PROJECT_DIR$/ex_11_encapsulationnn1/ex_11_encapsulationnn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_12_encapsulation2/ex_12_encapsulation2.iml" filepath="$PROJECT_DIR$/ex_12_encapsulation2/ex_12_encapsulation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_13_if_statement/ex_13_if_statement.iml" filepath="$PROJECT_DIR$/ex_13_if_statement/ex_13_if_statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_20_string_handling/ex_20_string_handling.iml" filepath="$PROJECT_DIR$/ex_20_string_handling/ex_20_string_handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_21_booleans/ex_21_booleans.iml" filepath="$PROJECT_DIR$/ex_21_booleans/ex_21_booleans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_21_regex/ex_21_regex.iml" filepath="$PROJECT_DIR$/ex_21_regex/ex_21_regex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercisesDevelHope.iml" filepath="$PROJECT_DIR$/.idea/exercisesDevelHope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java10_Input_e_output/java10_Input_e_output.iml" filepath="$PROJECT_DIR$/java10_Input_e_output/java10_Input_e_output.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java11_javadoc2/java11_javadoc2.iml" filepath="$PROJECT_DIR$/java11_javadoc2/java11_javadoc2.iml" />
+    </modules>
+  </component>
+</project>
